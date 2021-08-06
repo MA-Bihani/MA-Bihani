@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MA-Bihani
+- 👋 Hi, I’m Amine Bihani
 - 👀 I’m interested in Data Science & Analytics
 - 🌱 I’m currently learning Competitive intelligence and Data Science
 - 💞️ I’m looking to collaborate on Data Science projects, and game Development.

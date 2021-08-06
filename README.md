@@ -12,6 +12,10 @@
 <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=Jupyter&logoColor=black&style=flat" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=black&style=flat" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/-Googlecloud-4285F4?logo=Googlecloud&logoColor=black&style=flat" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/-Googlecolab-F9AB00?logo=Googlecolab&logoColor=black&style=flat" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=black&style=flat" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/-Amazonaws-232F3E?logo=Amazonaws&logoColor=black&style=flat" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/-Mysql-4479A1?logo=Mysql&logoColor=black&style=flat" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 <!---
 MA-Bihani/MA-Bihani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

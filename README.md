@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amine Bihani
-- 👀 I’m interested in Data Science & Analytics
-- 🌱 I’m currently learning Competitive intelligence and Data Science
-- 💞️ I’m looking to collaborate on Data Science projects, and game Development.
+- 👀 I’m interested in Data Science, Data Engineering, AI & Analytics
+- 🌱 I’m currently a Data & AI engineer
+- 💞️ I currently enjoy developing apps and solutions, writing, and game development.
 - 📫 How to reach me: amine9911@gmail.com 
                       LinkedIn: https://www.linkedin.com/in/bihaniamine/
 
